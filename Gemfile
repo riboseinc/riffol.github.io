@@ -21,6 +21,7 @@ gem "jekyll-theme-open-project", :path => "../jekyll-theme-open-hub"
 group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-data"
+  gem "jekyll-asciidoc"
   gem "git"
   gem "jekyll-theme-open-project-helpers", :path => "../jekyll-theme-open-project-helpers"
 end
