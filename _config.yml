@@ -21,7 +21,7 @@ parent_hub:
   home_url: https://open.ribose.com/
 
 home_calls_to_action:
-  - { url: "/software/riffol/docs/readme/", title: "Get Started" }
+  - { url: "/software/riffol/docs/README/", title: "Get Started" }
   - { url: "https://github.com/riboseinc/riffol/releases/", title: "Download" }
 
 # These are required for the theme to work:
