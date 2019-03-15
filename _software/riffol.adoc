@@ -1,9 +1,11 @@
 ---
-title: riffol
+title: Riffol
 repo_url: https://github.com/riboseinc/riffol
 description: The open-source Rust package implementing Riffol.
-tags: [Rust]
+tags: ["writtenin:Rust", "interface:daemon"]
 docs:
   git_repo_url: https://github.com/strogonoff/riffol
   git_repo_subtree: docs
 ---
+
+= Riffol
