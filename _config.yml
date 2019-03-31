@@ -2,14 +2,13 @@ title: Riffol
 description: Initialization system in Rust.
 
 tagline: Initialization system in Rust
-pitch: >-
-  Riffol is a supervising process that can run as a traditional daemon on Unix-like systems,
-  or as an init system for containers.
 
 social:
   links:
     - https://twitter.com/riboseinc
     - https://github.com/riboseinc/riffol
+
+landing_priority: [custom_intro, software, specs, blog]
 
 legal:
   name: Ribose Group Inc.
@@ -19,10 +18,6 @@ legal:
 parent_hub:
   git_repo_url: https://github.com/riboseinc/open.ribose.com
   home_url: https://open.ribose.com/
-
-home_calls_to_action:
-  - { url: "/software/riffol/docs/quickstart/", title: "Get Started" }
-  - { url: "https://github.com/riboseinc/riffol/releases/", title: "Download" }
 
 # These are required for the theme to work:
 

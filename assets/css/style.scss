@@ -1,6 +1,10 @@
 ---
 ---
 
+$primary-color: #A40606;
+$accent-color: #D98324;
+$main-background: linear-gradient(315deg, $accent-color 0%, $primary-color 74%);
+
 @import 'jekyll-theme-open-project';
 
 .site-logo svg {
@@ -9,6 +13,15 @@
   }
 }
 
-.hero .illustration {
-  bottom: -100px !important;
+body.site--project.layout--home {
+  > main {
+    > .custom-intro {
+      .summary {
+        p:first-child:first-letter {
+          color: $accent-color;
+          font-weight: bold;
+        }
+      }
+    }
+  }
 }
