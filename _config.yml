@@ -25,6 +25,7 @@ theme: jekyll-theme-open-project
 permalink: /blog/:month-:day-:year/:title/
 
 url: https://riffol.com
+github_repo_url: https://github.com/riboseinc/riffol.com
 
 tag_namespaces:
   software:
