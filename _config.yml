@@ -15,9 +15,9 @@ legal:
   tos_link: https://www.ribose.com/tos
   privacy_policy_link: https://www.ribose.com/privacy
 
-parent_hub:
-  git_repo_url: https://github.com/riboseinc/open.ribose.com
-  home_url: https://open.ribose.com/
+# parent_hub:
+#   git_repo_url: https://github.com/riboseinc/open.ribose.com
+#   home_url: https://open.ribose.com/
 
 # These are required for the theme to work:
 
