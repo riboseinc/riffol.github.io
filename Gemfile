@@ -37,3 +37,4 @@ gem "rake"
 gem "html-proofer"
 
 gem "ffi", "~> 1.16.3"
+gem "nokogiri", "~> 1.15.5"
