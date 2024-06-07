@@ -59,7 +59,7 @@ jobs:
 
       - name: Run bundle
         run: |
-          gem install nokogiri -- --use-system-libraries
+          gem install nokogiri -v 1.15.6 -- --use-system-libraries
           bundle install
 
       - name: Setup Pages
