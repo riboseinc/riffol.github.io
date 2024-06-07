@@ -1,6 +1,8 @@
 title: Riffol
 description: Initialization system in Rust.
 
+includes_dir: '.'
+
 tagline: Initialization system in Rust
 
 social:
