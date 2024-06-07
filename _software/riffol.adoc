@@ -13,6 +13,7 @@ external_links:
 
 docs:
   git_repo_url: https://github.com/strogonoff/riffol
+  git_repo_branch: master
   git_repo_subtree: docs
 ---
 
